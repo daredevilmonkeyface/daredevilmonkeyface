@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me .... you dont.
 - 😄 Pronouns: he him his
-- ⚡ Fun fact: i cant be bothered to write a fun fact
+- ⚡ Fun fact: I can't be bothered to write a fun fact.
 
 <!---
 daredevilmonkeyface/daredevilmonkeyface is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
